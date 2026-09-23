@@ -21,7 +21,7 @@
 |---|---|---|
 | **[ScholarPath](https://github.com/Chowkey/Scholar-Path-Hackathon-Lotus)** | An AI-powered scholarship discovery and planning MVP for Southeast Asian students, with a counselor, profile evaluation, scholarship matching, saved opportunities, alumni discovery, and an admin ingestion pipeline. | Next.js, TypeScript, OpenAI, Supabase, PostgreSQL/pgvector, Tailwind CSS |
 | **Recruitment Assistant** | An AI-assisted recruitment project designed to support candidate and hiring workflows. | LangChain |
-| **Bailearn** | A learning-focused software project designed to make educational experiences more accessible and engaging. | Project details to be added |
+| **V-ACT mock test platform** | A learning-focused software project designed to make educational experiences more accessible and engaging. | Project details to be added |
 
 ## Tech I work with
 
